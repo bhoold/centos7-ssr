@@ -9,7 +9,9 @@ ios不支持
 android不支持
 linux命令方式
 ### l2tp
-windows自带
-ios自带
-android自带
-linux命令方式
+windows自带 
+ios自带 
+android自带 
+linux命令方式 
+https://segmentfault.com/a/1190000014160574 
+https://www.cnblogs.com/baiduboy/p/7278715.html 
