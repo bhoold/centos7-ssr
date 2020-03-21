@@ -1,7 +1,11 @@
 # 客户端
 ## ssr客户端
 ### windows
-ShadowsocksR-win-4.9.2.zip
+ShadowsocksR-win-4.9.2.zip  
+https://github.com/shadowsocksrr/shadowsocksr-csharp/releases  
+### macos
+ShadowsocksX-NG-R8.dmg  
+https://github.com/qinyuhang/ShadowsocksX-NG-R/releases  
 ### linux
 https://blog.lucien.ink/archives/208/
 https://github.com/LucienShui/shadowsocksr  
